@@ -1,5 +1,5 @@
 # RegCFT
-Data for Frontiers Psychology paper Parikh et al., 2022, titled "The efficacy of downward counterfactual thinking for regulating emotional memories in anxious individuals"
+Data for Frontiers Psychology paper (Parikh et al., 2022), titled "The efficacy of downward counterfactual thinking for regulating emotional memories in anxious individuals"
 
 ## Uploaded Files
 1) Cleaned data file, titled "longForm_data_summary.csv"
@@ -26,4 +26,5 @@ This file contains the data from the cognitive judgment questions answered at th
 1) Which technique do you feel was the most effective for you? Counterfactual Thinking (CFT), Temporal Distancing (TD), or Remembering (Rem)
 2) Which technique was the easiest to use? CFT or TD
 3) Which technique (if any) will you use outside of this experiment to help regulate your emotions? CFT, TD, or Neither (None)
+
 Note that the responses from participants 1-3 did not record correctly, and thus are labeled NA
