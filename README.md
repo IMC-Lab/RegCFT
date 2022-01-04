@@ -1,7 +1,7 @@
 # RegCFT
 Data for Frontiers Psychology paper Parikh et al., 2022, titled "The efficacy of downward counterfactual thinking for regulating emotional memories in anxious individuals"
 
-## Uplaoded Files
+## Uploaded Files
 1) Cleaned data file, titled "longForm_data_summary.csv"
 2) End Questionnaire data file, titled "EndQ_Summary.txt"
 
